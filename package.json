@@ -1,0 +1,17 @@
+{
+  "name": "ayu-2",
+  "version": "1.0.0",
+  "description": "Two Years of Us — 2nd Anniversary Website for Mitu and Ayu (10 October 2024)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Static website ready for GitHub Pages deployment\""
+  },
+  "keywords": [
+    "anniversary",
+    "love-vault",
+    "mitu-ayu",
+    "github-pages"
+  ],
+  "author": "Mitu",
+  "license": "ISC"
+}
